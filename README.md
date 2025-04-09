@@ -1,6 +1,6 @@
 # 💻 Cours de Programmation en C
 
-Bienvenue ! Ce dépôt contient un cours complet de programmation en langage C, destiné aux étudiants en informatique ou à toute personne souhaitant apprendre à coder avec ce langage puissant et bas niveau.
+Bienvenue ! Ce dépôt contient un cours complet de programmation en langage C, destiné aux étudiants en informatique ou à toute personne souhaitant apprendre à coder avec ce langage puissant.
 
 ## 🎯 Objectifs
 
